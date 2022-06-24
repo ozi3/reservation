@@ -1,0 +1,1 @@
+import{d as s}from"./index.af35966d.js";const t=s({id:"user",state:()=>({user:{name:"\u5C71\u7530\u592A\u90CE",age:21,address:"\u6771\u4EAC\u90FD\u6771\u5927\u548C\u5E02\u6E05\u6C342-432-11",registered:[]}}),getters:{},actions:{registWork(e){this.user.registered.push(e)}}});export{t as u};
